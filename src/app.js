@@ -38,8 +38,7 @@ window.onload = () => {
       " " +
       what[randomNumber()] +
       " " +
-      when[randomNumber()] +
-      "."
+      when[randomNumber()]
     );
   };
 
